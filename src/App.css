@@ -1,0 +1,13 @@
+.App {
+	text-align: center;
+}
+
+@font-face {
+	font-family: "Qahiri";
+	src: local("Qahiri"), url(./fonts/Qahiri-Regular.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Rubik";
+	src: local("Rubik"), url(./fonts/Rubik-Bold.ttf) format("truetype");
+}
